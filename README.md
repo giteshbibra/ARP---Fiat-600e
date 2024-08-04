@@ -22,9 +22,11 @@ Plan: https://cityuni-my.sharepoint.com/:w:/r/personal/medina_zelimger_bayes_cit
 4.⁠ ⁠⁠Questions
 
   (a) Whether ChatGPT for AI generated personas is acceptable
+   
     •⁠  ⁠If we use the chatgpt and not api, how should we add the process?
 
   (b) Compilation of code into one file
   
   (c) Report writing 
+  
     •⁠  ⁠Writing only on what we worked on would seem very disjointed
