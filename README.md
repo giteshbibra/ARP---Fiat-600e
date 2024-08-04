@@ -19,11 +19,12 @@ Plan: https://cityuni-my.sharepoint.com/:w:/r/personal/medina_zelimger_bayes_cit
 
 3.⁠ ⁠⁠Potential customers of 500e, 600e and competitors 
 
-4.⁠ ⁠⁠Questions for 5 Aug
-(a) Whether ChatGPT for AI generated personas is acceptable
-•⁠  ⁠If we use the chatgpt and not api, how should we add the process?
+4.⁠ ⁠⁠Questions
 
-(b) Compilation of code into one file
+  (a) Whether ChatGPT for AI generated personas is acceptable
+    •⁠  ⁠If we use the chatgpt and not api, how should we add the process?
 
-(c) Report writing 
-•⁠  ⁠Writing only on what we worked on would seem very disjointed
+  (b) Compilation of code into one file
+  
+  (c) Report writing 
+    •⁠  ⁠Writing only on what we worked on would seem very disjointed
