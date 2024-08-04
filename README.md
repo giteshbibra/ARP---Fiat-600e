@@ -7,7 +7,11 @@ Market research link: https://docs.google.com/document/d/1MvQi2Gh24bZ2JcisbL7Jvx
 Plan: https://cityuni-my.sharepoint.com/:w:/r/personal/medina_zelimger_bayes_city_ac_uk/Documents/ARP%20Fiat%20600e%20-%20Project%20Plan%2030%20Jul.docx?d=w0fda4ff3551147c9a31afa7d0fe0030c&csf=1&web=1&e=I3R02h
 
 
-**5 AUG MEETING AGENDA:**
+
+
+# 5 AUG MEETING
+
+## Agenda:
 
 1.⁠ ⁠Project plan
 
