@@ -13,20 +13,20 @@ Plan: https://cityuni-my.sharepoint.com/:w:/r/personal/medina_zelimger_bayes_cit
 
 ## Agenda:
 
-1.⁠ ⁠Project plan
+1.⁠ ⁠Project plan *- approved*
 
-2.⁠ ⁠⁠Topic modelling results
+2.⁠ ⁠⁠Topic modelling results 
 
 3.⁠ ⁠⁠Potential customers of 500e, 600e and competitors 
 
 4.⁠ ⁠⁠Questions
 
-  (a) Whether ChatGPT for AI generated personas is acceptable
+  (a) Whether ChatGPT for AI generated personas is acceptable *- approved*
    
-    •⁠  ⁠If we use the chatgpt and not api, how should we add the process?
+    •⁠  ⁠If we use the chatgpt and not api, how should we add the process? 
 
-  (b) Compilation of code into one file
+  (b) Compilation of code into one file - *link to GitHub repository*
   
-  (c) Report writing 
+  (c) Report writing - *only on part you worked on, see email of Aug 5 by Philippe*
   
     •⁠  ⁠Writing only on what we worked on would seem very disjointed
