@@ -10,7 +10,7 @@ All codes and datasets for data preprocessing and validation of customer data ar
 - **Forums and Datasets Merging:**
   - `ARP - Data Cleaning_Forums_20240804.ipynb`
 
-### Cleaned Datasets
+### Processed Datasets
 
 - **YouTube Comments:**
   - `500e - YouTube Comments_Clean_20240802.csv`
