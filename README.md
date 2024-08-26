@@ -34,17 +34,12 @@ This repository is organized according to the project’s methodology pipeline, 
 
 ### Steps 1 and 2: Model-Specific Codes and Data
 
-The first two steps in our methodology include separate codes and datasets for different models and data sources. Below are the pipelines of these resources:
+The first two steps in our methodology include separate codes and datasets for different models and data sources. Below is the pipeline of these resources:
 
-- **For Fiat 600e:**
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e309f57-aa99-429e-979b-73564abbfa7d" width="600" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c15c7d2-6e88-4089-b05a-4f38037fe096" width="600" />
 </p>
-  
-- **For Fiat 500e:**
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb8cf71a-4cc3-40f8-999a-6bc847ca502f" width="600" />
-</p>
+
 
 ## Team Members
 
