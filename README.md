@@ -36,10 +36,12 @@ The first two steps in our methodology include separate codes and datasets for d
 
 This repository is structured as follows:
 
-- **1. Data Collection:** Raw data and sources.
-- **2. Cleaning:** Data cleaning and transformation scripts.
-- **3. Topic Modelling and Sentiment Analysis:** Exploratory data analysis and statistical evaluation.
-- **4. AI Personas:** Simulating customer personas and their purchasing behaviour using AI to predict preferences and behaviors.
+- **1. Data Collection:** Raw data and sources gathered for analysis.
+- **2. Data Cleaning:** Scripts for cleaning and transforming the collected data to ensure it is ready for analysis.
+- **3a. Topic Modelling and Sentiment Analysis:** Analysis of customer feedback using topic modeling to identify themes and sentiment analysis to gauge opinions.
+- **3b. Clustering Analysis:** Grouping data based on similarities identified in the topic modeling phase, used to refine insights.
+- **4a. AI Personas (Path without Clustering):** Simulating customer personas and predicting preferences and behaviors based on sentiment and topic modeling results.
+- **4b. AI Personas (Path with Clustering):** Simulating customer personas and predicting preferences and behaviors, incorporating insights from the clustering analysis.
 
 ## Team Members
 
