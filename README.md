@@ -13,7 +13,7 @@ This repository is organized according to the project’s methodology pipeline, 
 - The other path, handled by Jey-Lynn Liew, Medina Zelimger, and Gitesh Bibra, proceeds without clustering.
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/files/16753200/ARP-11.pdf](https://github.com/user-attachments/files/16753441/ARP-12.pdf" width="600" />
+  <img src="https://github.com/user-attachments/files/16753441/ARP-12.pdf" width="600" />
 </p>
 
 ## Methodology Breakdown
