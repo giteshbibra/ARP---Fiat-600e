@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69d40d0b-ddb5-4c5a-adde-58281591ce19" width="200" />
-  <span style="font-size: 24px; font-weight: bold; margin: 0 20px;">VS.</span>
-  <img src="https://github.com/user-attachments/assets/11214597-6538-4a1f-b498-55ebfc2e0657" width="200" />
+  <img src="![image](https://github.com/user-attachments/assets/c2deba65-cd06-4a5a-b273-64e57119a702)
+" width="200" />
 </p>
 
 
