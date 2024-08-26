@@ -10,15 +10,15 @@ Welcome to the **ARP - Fiat 600e** repository! This project is a collaborative e
 
 This repository is organized according to the project’s methodology pipeline, with each folder representing a distinct step. To ensure a clear and systematic approach to achieving our goals, the process diverges into two distinct paths after data cleaning:
 
+- **Path with Topic Modelling:** Handled by Jey-Lynn Liew, Medina Zelimger, and Gitesh Bibra.
 - **Path with Clustering:** Developed by Victoria Sanne, Jana Pawlenczuk, and Tanisha Agrawal.
-- **Path without Clustering:** Handled by Jey-Lynn Liew, Medina Zelimger, and Gitesh Bibra.
 
 ### Repository Structure
 
 - **1. Data Collection:** Raw data and sources gathered for analysis.
 - **2. Data Cleaning:** Scripts for cleaning and transforming the collected data to ensure it is ready for analysis.
 
-**Path without Clustering:**
+**Path with Topic Modelling:**
 - **3a. Topic Modelling and Sentiment Analysis:** Analysis of customer feedback using topic modeling to identify themes and sentiment analysis to gauge opinions.
 - **4a. AI Personas:** Simulating customer personas and predicting preferences and behaviors based on sentiment and topic modeling results.
 
