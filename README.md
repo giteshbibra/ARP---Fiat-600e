@@ -32,7 +32,7 @@ This repository is organized according to the project’s methodology pipeline, 
 
 ### Steps 1 and 2: Model-Specific Codes and Data
 
-The first two steps in our methodology include separate codes and datasets for the different car models (Fiat 500e, Fiat 600e, and competitors) and data sources (Youtube, Google News, Forums), with the following pipeline:
+The first two steps in our methodology include separate codes and datasets for the different car models (Fiat 500e, Fiat 600e, and competitors) and data sources (Youtube, Google News, Forums).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98801ba0-a0b0-45b3-8ed7-a4311a2e92bf" width="600" />
@@ -41,4 +41,9 @@ The first two steps in our methodology include separate codes and datasets for t
 
 ## Team Members
 
-Jey-Lynn Liew, Medina Zelimger, Victoria Sanne, Jana Pawlenczuk, Tanisha Agrawal, and Gitesh Bibra.
+Jey-Lynn Liew: jey-lynn.liew@bayes.city.ac.uk
+Medina Zelimger: medina.zelimger@bayes.city.ac.uk
+Victoria Sanne: victoria.sanne@bayes.city.ac.uk
+Jana Pawlenczuk: jana.pawlenczuk@bayes.city.ac.uk
+Tanisha Agrawal: tanisha.agrawal@bayes.city.ac.uk
+Gitesh Bibra: gitesh.bibra@bayes.city.ac.uk
