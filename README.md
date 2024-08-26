@@ -32,7 +32,7 @@ This repository is organized according to the project’s methodology pipeline, 
 
 ### Steps 1 and 2: Model-Specific Codes and Data
 
-The first two steps in our methodology include separate codes and datasets for different models and data sources. Below is the pipeline of these resources:
+The first two steps in our methodology include separate codes and datasets for different car models and data sources. Below is the pipeline of these resources:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98801ba0-a0b0-45b3-8ed7-a4311a2e92bf" width="600" />
