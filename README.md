@@ -21,10 +21,14 @@ This repository is organized according to the project’s methodology pipeline. 
 The first two steps in our methodology include separate codes and datasets for different models and data sources. Below are the pipelines of these resources:
 
 - **For Fiat 600e:**
-  - [600e Codes and Data](https://github.com/user-attachments/assets/2b1a0471-0fce-4fc3-99c4-f74a5c710a7a)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/0e309f57-aa99-429e-979b-73564abbfa7d" width="600" />
+</p>
   
 - **For Fiat 500e:**
-  - [500e Codes and Data](https://github.com/user-attachments/assets/f857ecdf-805d-4b97-a8ad-444b3f2436a8)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/cb8cf71a-4cc3-40f8-999a-6bc847ca502f" width="600" />
+</p>
 
 ## Repository Structure
 
@@ -46,6 +50,10 @@ Jey-Lynn Liew, Medina Zelimger, Victoria Sanne, Jana Pawlenczuk, Tanisha Agrawal
 
 
 
+
+
+
+#
 
 Presentation link:
 
