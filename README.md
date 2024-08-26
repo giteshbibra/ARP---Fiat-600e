@@ -42,8 +42,13 @@ The first two steps in our methodology include separate codes and datasets for t
 ## Team Members
 
 Jey-Lynn Liew: jey-lynn.liew@bayes.city.ac.uk
+
 Medina Zelimger: medina.zelimger@bayes.city.ac.uk
+
 Victoria Sanne: victoria.sanne@bayes.city.ac.uk
+
 Jana Pawlenczuk: jana.pawlenczuk@bayes.city.ac.uk
+
 Tanisha Agrawal: tanisha.agrawal@bayes.city.ac.uk
+
 Gitesh Bibra: gitesh.bibra@bayes.city.ac.uk
