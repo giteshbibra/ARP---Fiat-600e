@@ -27,7 +27,7 @@ This repository is organized according to the project’s methodology pipeline, 
 - **4b. AI Personas:** Simulating customer personas and predicting preferences and behaviors, incorporating insights from the clustering analysis.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/files/16753595/ARP-14.pdf" width="600" />
+  <img src="https://github.com/user-attachments/files/16754160/ARP-15.pdf" width="600" />
 </p>
 
 ### Steps 1 and 2: Model-Specific Codes and Data
