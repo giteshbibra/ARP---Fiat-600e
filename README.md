@@ -37,7 +37,7 @@ This repository is organized according to the project’s methodology pipeline, 
 The first two steps in our methodology include separate codes and datasets for different models and data sources. Below is the pipeline of these resources:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6593da92-e398-4017-86eb-3ec45a4742f5" width="600" />
+  <img src="https://github.com/user-attachments/assets/98801ba0-a0b0-45b3-8ed7-a4311a2e92bf" width="600" />
 </p>
 
 
