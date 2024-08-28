@@ -4,7 +4,7 @@
 
 # ARP - Fiat 600e
 
-Welcome to the **ARP - Fiat 600e** repository! This project is a collaborative effort by Jey-Lynn Liew, Medina Zelimger, Victoria Sanne, Jana Pawlenczuk, Tanisha Agrawal, and Gitesh Bibra. The focus of this repository is on the data collection, preprocessing, analysis, and AI persona simulation related to the Fiat 500 and 600e models. The primary objective is to gain insights into the expectations of Fiat 600e customers and evaluate the potential cannibalization risk for the Fiat 500e.
+Welcome to the **ARP - Fiat 600e** repository! This project is a collaborative effort by Jey-Lynn Liew, Medina Zelimger, Victoria Sanne, Jana Pawlenczuk, Tanisha Agrawal, and Gitesh Bibra. The focus of this repository is on the data collection, preprocessing, analysis, and AI persona simulation related to the Fiat 500e and 600e models. The primary objective is to gain insights into the expectations of Fiat 600e customers and evaluate the potential cannibalization risk for the Fiat 500e.
 
 ## Project Methodology and Repository Structure
 
