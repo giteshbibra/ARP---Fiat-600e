@@ -32,7 +32,9 @@ This repository is organized according to the project’s methodology pipeline, 
 
 ### Steps 1 and 2: Model-Specific Codes and Data
 
-The first two steps in our methodology include separate codes and datasets for the different car models (Fiat 500e, Fiat 600e, and competitors) and data sources (YouTube, Google News, Forums).
+The first two steps in our methodology include separate codes and datasets for the different car models (Fiat 500e, Fiat 600e, and competitors) and data sources (YouTube, Google News, Forums). 
+
+The only exception is for Google News articles: In Step 2a, titled "Opinion Leaders," we focus on collecting and cleaning article data, and then merging this data with transcripts from Step 1a. This process is applied to both the Fiat 500e and Fiat 600e models.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98801ba0-a0b0-45b3-8ed7-a4311a2e92bf" width="600" />
