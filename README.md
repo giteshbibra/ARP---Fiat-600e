@@ -19,12 +19,12 @@ This repository is organized according to the project’s methodology pipeline, 
 - **2. Data Cleaning:** Scripts for cleaning and transforming the collected data to ensure it is ready for analysis.
 
 **Path with Topic Modelling:**
-- **3a. Topic Modelling and Sentiment Analysis:** Analysis of customer feedback using topic modelling to identify themes and sentiment analysis to gauge opinions.
-- **4a. AI Personas:** Simulating customer personas and predicting preferences and behaviours based on sentiment and topic modelling results.
+- **3a. Topic Modelling and Sentiment Analysis (TM-SA):** Analysis of customer feedback using topic modelling to identify themes and sentiment analysis to gauge opinions.
+- **4a. AI Personas - TM-SA:** Simulating customer personas and predicting preferences and behaviours based on sentiment and topic modelling results.
 
 **Path with Clustering:**
-- **3b. Clustering Analysis:** Grouping data based on similarities.
-- **4b. AI Personas:** Simulating customer personas and predicting preferences and behaviours, incorporating insights from the clustering analysis.
+- **3b. Clustering Analysis (CA):** Grouping data based on similarities.
+- **4b. AI Personas - CA:** Simulating customer personas and predicting preferences and behaviours, incorporating insights from the clustering analysis.
 
 <p align="center">
   <img src="https://github.com/user-attachments/files/16754160/ARP-15.pdf" width="600" />
@@ -32,7 +32,7 @@ This repository is organized according to the project’s methodology pipeline, 
 
 ### Steps 1 and 2: Model-Specific Codes and Data
 
-The first two steps in our methodology include separate codes and datasets for the different car models (Fiat 500e, Fiat 600e, and competitors) and data sources (Youtube, Google News, Forums).
+The first two steps in our methodology include separate codes and datasets for the different car models (Fiat 500e, Fiat 600e, and competitors) and data sources (YouTube, Google News, Forums).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98801ba0-a0b0-45b3-8ed7-a4311a2e92bf" width="600" />
